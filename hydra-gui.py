@@ -124,7 +124,7 @@ class MotherOfHydra:
     def __init__(self, root):
         self.root = root
         self.root.title("⚡ MOTHER OF HYDRA ⚡")
-        self.root.geometry("1200x1200")
+        self.root.geometry("1200x1000")
         self.root.configure(bg=HackerStyle.BG_DARK)
         
         # Configure style
