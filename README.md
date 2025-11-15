@@ -35,23 +35,22 @@ Form Parameters: uname=^USER^&pass=^PASS^&submit=Login
 Failure String: Wrong username or password
 
 ### Features:
-
 ✅ Multiple protocol support (HTTP, HTTPS, SSH, FTP, etc.)
 
-✅ HTTP/HTTPS form authentication (POST/GET)
+✅ HTTP/HTTPS form authentication (POST/GET) 
 
-✅ Username/password lists or single credentials
+✅ Username/password lists or single credentials 
 
-✅ Custom headers support
+✅ Custom headers support 
 
-✅ Real-time output display
+✅ Real-time output display 
 
-✅ Thread configuration
+✅ Thread configuration 
 
-✅ Timeout settings
+✅ Timeout settings 
 
-✅ Start/Stop controls
+✅ Start/Stop controls 
 
-✅ Output saving
+✅ Output saving 
 
 Note: Use this tool only for legal penetration testing with proper authorization. Unauthorized access to systems is illegal.
