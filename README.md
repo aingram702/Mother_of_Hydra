@@ -2,7 +2,7 @@
 
 ### Install Requirements:
 Install Hydra
-sudo apt-get install hydra  # Debian/Ubuntu
+'sudo apt-get install hydra  # Debian/Ubuntu'
 or
 brew install hydra  # macOS
 
